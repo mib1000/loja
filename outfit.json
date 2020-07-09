@@ -1,0 +1,402 @@
+[
+ {
+  "Imagem": "imagens/img1.png",
+  "Produto": "Blusa",
+  "Cor": "Cinza Branco e Preto",
+  "Tamanho": "Único",
+  "Valor": "R$ 50,00",
+  "Descrição": "Blusa colorida de cinza, branco e preto.",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img2.png",
+  "Produto": "Calça",
+  "Cor": "Preta",
+  "Tamanho": "36",
+  "Valor": "R$ 100,00",
+  "Descrição": "Calça preta de napa.",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img3.png",
+  "Produto": "Vestido",
+  "Cor": "Cinza e Preto",
+  "Tamanho": "38",
+  "Valor": "R$ 90,00",
+  "Descrição": "Vestido cinza de listras pretas.",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img4.png",
+  "Produto": "Blazer",
+  "Cor": "Branco",
+  "Tamanho": "40",
+  "Valor": "R$ 60,00",
+  "Descrição": "Blazer branco",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img5.png",
+  "Produto": "Conjunto",
+  "Cor": "Preto",
+  "Tamanho": "40",
+  "Valor": "R$ 120,00",
+  "Descrição": "Conjunto preto de malha",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img6.png",
+  "Produto": "vestido",
+  "Cor": "Preto",
+  "Tamanho": "38",
+  "Valor": "R$ 60,00",
+  "Descrição": "Vestido preto de algodão",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img7.png",
+  "Produto": "Blusa Manga Longa",
+  "Cor": "Preto",
+  "Tamanho": "Único",
+  "Valor": "R$ 60,00",
+  "Descrição": "Blusa preta com detalhe em cinza",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img8.png",
+  "Produto": "Blusa Manga Longa",
+  "Cor": "Cinza",
+  "Tamanho": "Único",
+  "Valor": "R$ 60,00",
+  "Descrição": "Blusa cinza em malha",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img9.png",
+  "Produto": "Vestido",
+  "Cor": "Preto",
+  "Tamanho": "Único",
+  "Valor": "R$ 60,00",
+  "Descrição": "Vestido preto de malha",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img10.png",
+  "Produto": "Blusa",
+  "Cor": "Preta",
+  "Tamanho": "Único",
+  "Valor": "R$ 40,00",
+  "Descrição": "Blusa preta de stretch",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img11.png",
+  "Produto": "Vestido",
+  "Cor": "Floral",
+  "Tamanho": "36",
+  "Valor": "R$ 80,00",
+  "Descrição": "Vestido floral",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img12.png",
+  "Produto": "Blusa",
+  "Cor": "Preta",
+  "Tamanho": "Único",
+  "Valor": "R$ 40,00",
+  "Descrição": "Blusa preta de malha",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img13.png",
+  "Produto": "Blusa Manga Longa",
+  "Cor": "Preta",
+  "Tamanho": "Único",
+  "Valor": "R$ 60,00",
+  "Descrição": "Blusa preta de lã",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img14.png",
+  "Produto": "Conjunto",
+  "Cor": "Branco e Mostarda",
+  "Tamanho": "38",
+  "Valor": "R$ 100,00",
+  "Descrição": "Conjunto de malha duas cores branco e mostarda",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img15.png",
+  "Produto": "Blusa",
+  "Cor": "Preta",
+  "Tamanho": "38",
+  "Valor": "R$ 50,00",
+  "Descrição": "Blusa preta com detalhes em branco",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img16.png",
+  "Produto": "Vestido",
+  "Cor": "Preto",
+  "Tamanho": "Único",
+  "Valor": "R$ 80,00",
+  "Descrição": "Vestido preto",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img17.png",
+  "Produto": "Calça",
+  "Cor": "Azul",
+  "Tamanho": "40",
+  "Valor": "R$ 80,00",
+  "Descrição": "Calça jeans azul",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img18.png",
+  "Produto": "Conjunto",
+  "Cor": "Preto",
+  "Tamanho": "40",
+  "Valor": "R$ 130,00",
+  "Descrição": "Conjunto preto",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img19.png",
+  "Produto": "Blusa",
+  "Cor": "Amarela",
+  "Tamanho": "36",
+  "Valor": "R$ 30,00",
+  "Descrição": "Blusa amarela",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img20.png",
+  "Produto": "Camisa",
+  "Cor": "Branca",
+  "Tamanho": "42",
+  "Valor": "R$ 80,00",
+  "Descrição": "Camisa branca",
+  "Tipo": "Roupas",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img21.png",
+  "Produto": "Blusa",
+  "Cor": "Preta",
+  "Tamanho": "Único",
+  "Valor": "R$ 60,00",
+  "Descrição": "Blusa preta",
+  "Tipo": "Roupas",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img22.png",
+  "Produto": "Blusa",
+  "Cor": "Cinza",
+  "Tamanho": "Único",
+  "Valor": "R$ 60,00",
+  "Descrição": "Blusa cinza com detalhe em folha",
+  "Tipo": "Roupas",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img23.png",
+  "Produto": "Blusa",
+  "Cor": "Preta",
+  "Tamanho": "Único",
+  "Valor": "R$ 60,00",
+  "Descrição": "Blusa preta",
+  "Tipo": "Roupas",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img24.png",
+  "Produto": "Blusa Manga Longa",
+  "Cor": "Preta",
+  "Tamanho": "Único",
+  "Valor": "R$ 80,00",
+  "Descrição": "Blusa preta manga longa malha",
+  "Tipo": "Roupas",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img25.png",
+  "Produto": "Jaqueta",
+  "Cor": "Marron",
+  "Tamanho": "46",
+  "Valor": "R$ 150,00",
+  "Descrição": "Jaqueta Marron",
+  "Tipo": "Roupas",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img26.png",
+  "Produto": "Jaqueta",
+  "Cor": "Preta",
+  "Tamanho": "46",
+  "Valor": "R$ 150,00",
+  "Descrição": "Jaqueta preta",
+  "Tipo": "Roupas",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img27.png",
+  "Produto": "Blusa Manga Longa",
+  "Cor": "Preta",
+  "Tamanho": "Único",
+  "Valor": "R$ 80,00",
+  "Descrição": "Blusa preta manga longa em malha",
+  "Tipo": "Roupas",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img28.png",
+  "Produto": "Blusa",
+  "Cor": "Azul",
+  "Tamanho": "Único",
+  "Valor": "R$ 60,00",
+  "Descrição": "Blusa azul",
+  "Tipo": "Roupas",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img29.png",
+  "Produto": "Blusa",
+  "Cor": "Preta",
+  "Tamanho": "Único",
+  "Valor": "R$ 60,00",
+  "Descrição": "Blusa preta",
+  "Tipo": "Roupas",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img30.png",
+  "Produto": "Camisa",
+  "Cor": "Colorida",
+  "Tamanho": "3",
+  "Valor": "R$ 90,00",
+  "Descrição": "Blusa colorida",
+  "Tipo": "Roupas",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img31.png",
+  "Produto": "Perfume",
+  "Cor": "Rosa",
+  "Tamanho": "30 ml",
+  "Valor": "R$ 260,00",
+  "Descrição": "Perfume Lancôme",
+  "Tipo": "Perfumes",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img32.png",
+  "Produto": "Perfume",
+  "Cor": "Transparente",
+  "Tamanho": "30 ml",
+  "Valor": "R$ 160,00",
+  "Descrição": "Perfume Maybe",
+  "Tipo": "Perfumes",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img33.png",
+  "Produto": "Perfume",
+  "Cor": "Rosa",
+  "Tamanho": "60 ml",
+  "Valor": "R$ 290,00",
+  "Descrição": "Perfume Pure XS",
+  "Tipo": "Perfumes",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img34.png",
+  "Produto": "Perfume",
+  "Cor": "Transparente",
+  "Tamanho": "30 ml",
+  "Valor": "R$ 320,00",
+  "Descrição": "Perfume Chanel nº 5 ",
+  "Tipo": "Perfumes",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img35.png",
+  "Produto": "Perfume",
+  "Cor": "Transparente",
+  "Tamanho": "30 ml",
+  "Valor": "R$ 160,00",
+  "Descrição": "Perfume L´Homme ",
+  "Tipo": "Perfumes",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img36.png",
+  "Produto": "Perfume",
+  "Cor": "Transparente",
+  "Tamanho": "30 ml",
+  "Valor": "R$ 200,00",
+  "Descrição": "Perfume Hugo Boss",
+  "Tipo": "Perfumes",
+  "Categoria": "Masculino"
+ },
+ {  
+  "Imagem": "imagens/img37.png",
+  "Produto": "Perfume",
+  "Cor": "Verde",
+  "Tamanho": "30 ml",
+  "Valor": "R$ 180,00",
+  "Descrição": "Perfume Natura Homem",
+  "Tipo": "Perfumes",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img38.png",
+  "Produto": "Perfume",
+  "Cor": "Preto",
+  "Tamanho": "30 ml",
+  "Valor": "R$ 280,00",
+  "Descrição": "Perfume Armani",
+  "Tipo": "Perfumes",
+  "Categoria": "Masculino"
+ },
+ { 
+  "Imagem": "imagens/img39.png",
+  "Produto": "Acessórios",
+  "Cor": "Dourado",
+  "Tamanho": "3 cm",
+  "Valor": "R$ 130,00",
+  "Descrição": "Brinco dourado com detalhe azul",
+  "Tipo": "Acessórios",
+  "Categoria": "Feminino"
+ },
+ { 
+  "Imagem": "imagens/img40.png",
+  "Produto": "Acessórios",
+  "Cor": "Dourado",
+  "Tamanho": "3 cm",
+  "Valor": "R$ 120,00",
+  "Descrição": "Brinco dourado com detalhe preto",
+  "Tipo": "Acessórios",
+  "Categoria": "Feminino"
+ }
+]
